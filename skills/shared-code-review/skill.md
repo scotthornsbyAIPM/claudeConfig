@@ -1,6 +1,6 @@
 ---
-name: code-review
-description: Structured code review skill. Use this when the user asks for a code review, wants feedback on their changes, or runs /code-review. Reviews staged changes, a specific file, or a PR for correctness, security, readability, and improvements.
+name: shared-code-review
+description: Structured code review skill. Use this when the user asks for a code review, wants feedback on their changes, or runs /shared-code-review. Reviews staged changes, a specific file, or a PR for correctness, security, readability, and improvements.
 ---
 
 # Code Review Skill
